@@ -1,6 +1,6 @@
-# POLIDriving Web App
+# POLIDriving Web
 
-POLIDriving is an 18-hour driving dataset with data from five heterogeneous sources (driver, vehicle, weather conditions, traffic accidents, and road geometrics characteristics). It contains around 61k observations and 32 attributes. Additionally, it contains 1980 labeled observations with four classes (low, medium, high, and very high) that represent the risk levels of suffering a traffic accident. Data was collected using an OBD-II scanner, a GPS receiver, and a health monitor. Four CUV, PICKUP, and SEDAN-type vehicles were used in the acquisition sessions. Finally, two routes through roads with high traffic accident rates and heavy traffic in the urban area of Quito (Ecuador) were considered for the acquisition sessions.
+POLIDriving Web is an application to calculate the risk level of suffering a traffic accident based on the information input by the user. This application uses NodeJS as backend technology and React as frontend technology. It also uses PostgreSQL as database engine. The following picture presents the graphic interface of POLIDriving Web.
 
 # Dataset structure
 
