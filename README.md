@@ -6,7 +6,7 @@ POLIDriving Web is an application that calculates the risk level of suffering a 
 
 ## Technologies
 
-This application uses <a href=https://react.dev/>NodeJS</a> as the backend technology and React as the frontend. It also uses PostgreSQL as the database engine.
+This application uses <a href=https://nodejs.org/en>NodeJS</a> as the backend technology and <a href=https://react.dev>React</a> as the frontend. It also uses PostgreSQL as the database engine.
 
 # Publication
 
