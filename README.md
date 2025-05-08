@@ -1,6 +1,6 @@
 # POLIDriving Web
 
-POLIDriving Web is an application to calculate the risk level of suffering a traffic accident based on the information input by the user. This application uses NodeJS as backend technology and React as frontend technology. It also uses PostgreSQL as database engine. The following picture presents the graphic interface of POLIDriving Web.
+POLIDriving Web is an application that calculates the risk level of suffering a traffic accident based on the information input by the user. This application uses NodeJS as the backend technology and React as the frontend. It also uses PostgreSQL as the database engine. The following picture presents the graphic interface of POLIDriving Web.
 
 <img src="polidriving_web_app_v2.png" width="800"/>
 
