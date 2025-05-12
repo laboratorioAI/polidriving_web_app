@@ -2,7 +2,7 @@
 
 POLIDriving Web is an application that calculates the risk level of suffering a traffic accident based on the information input by the user. The following picture presents the graphic interface of POLIDriving Web.
 
-<img src="polidriving_web_app.png" width="800"/>
+<img src="images/polidriving_web_app.png" width="800"/>
 
 ## Technologies
 
